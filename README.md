@@ -43,6 +43,7 @@ print(f"Flag Extraída: {flag}")
 
 <img width="1650" height="242" alt="flag" src="https://github.com/user-attachments/assets/26521e28-e125-4894-84d2-804266a319a0" />
 
+```
 
 #### 4. Conclusão
 A análise demonstrou que a melhor defesa contra ataques de macro não é apenas tecnológica, mas educacional. Como analista, a capacidade de isolar o código e entender operações bitwise fundamentais permite a rápida identificação de IoCs (Indicadores de Comprometimento) sem comprometer a segurança da estação de trabalho.
