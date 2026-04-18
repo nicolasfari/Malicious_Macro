@@ -9,10 +9,10 @@ Durante uma análise de um e-mail suspeito, identifiquei um anexo que solicitava
 Macros são scripts em **VBA (Visual Basic for Applications)** integrados a documentos do Office. Embora úteis para automação de tarefas, atacantes as utilizam para: Baixar e executar payloads de servidores externos (C2). Realizar movimentação lateral na rede. Exfiltrar dados sensíveis do host infectado.
 
 #### Ferramentas Utilizadas:
-Ubuntu Linux (Ambiente de análise)
-LibreOffice Basic IDE (Análise estática de VBA)
-Python 3 (Scripting e decodificação)
-Strings / Hexdump (Triagem inicial de binário)
+- Ubuntu Linux (Ambiente de análise)
+- LibreOffice Basic IDE (Análise estática de VBA)
+- Python 3 (Scripting e decodificação)
+- Strings / Hexdump (Triagem inicial de binário)
 
 ---
 
